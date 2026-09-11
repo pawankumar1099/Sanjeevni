@@ -1,0 +1,16 @@
+{
+  "name": "ai-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sanjeevni on-device AI/signal-processing engine (no React Native dependency)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
